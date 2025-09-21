@@ -1,3 +1,4 @@
 Hallo Zusammen
 
-wie lange ich das Readme hoch
+Wie lade ich das Textfile hoch!
+Blubb
