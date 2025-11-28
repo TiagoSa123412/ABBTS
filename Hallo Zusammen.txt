@@ -4,3 +4,13 @@ Wie lade ich das Textfile hoch!
 Blubb
 
 Jetzte branche ich was in den Develop und danach in den Main branch!
+
+
+
+Hallo Tiago 
+
+Lade das GIT GUI herunters und JetBrain !
+
+MAche ein GIT account!
+
+https://www.jetbrains.com/idea/download/?section=windows
